@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pazer_logger_python"
-version = "0.1.4"
+version = "0.1.0"
 authors = [{ name = "David Kim", email = "woody@woody.co.kr" }]
 description = "Pazer Logger - Python"
 readme = "README.md"
