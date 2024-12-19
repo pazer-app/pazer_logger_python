@@ -9,7 +9,7 @@ class Logger:
 
     @staticmethod
     def isMode() -> str:
-        return os.getenv("MODE", None)
+        return os.getenv("MODE", "NoneMode")
 
     @staticmethod
     def isLogEnable() -> bool:
